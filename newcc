@@ -112,6 +112,6 @@ print("\n")
 
 
 print("UNC Summary")
-print("✅ Tested with a 94% success rate (78 out of 83)")
-print("⛔ 3 tests failed")
+print("✅ Tested with a 92% success rate (77 out of 83)")
+print("⛔ 4 tests failed")
 print("⚠️ 3 globals are missing aliases")
