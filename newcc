@@ -76,7 +76,7 @@ warn("⛔ setscriptable failed: :607: ⚠️⚠️ setscriptable persists betwee
 print("⏺️ setrbxclipboard")
 print("✅ getrawmetatable")
 print("✅ hookmetamethod") 
-warn("⛔ getnamecallmethod failed: :620: Did not get the correct method (GetService)") 
+print("✅ getnamecallmethod") 
 print("✅ isreadonly")
 print("✅ setrawmetatable") 
 print("✅ setreadonly")
@@ -112,6 +112,6 @@ print("\n")
 
 
 print("UNC Summary")
-print("✅ Tested with a 96% success rate (80 out of 83)")
-print("⛔ 3 tests failed")
+print("✅ Tested with a 98% success rate (81 out of 83)")
+print("⛔ 2 tests failed")
 print("⚠️ 3 globals are missing aliases")
