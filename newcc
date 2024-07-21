@@ -107,7 +107,7 @@ print("⏺️ WebSocket")
 print("✅ WebSocket.connect")
 print("✅ getcustomasset")
 print("✅ setfpscap • 63fps @60 • 122fps @0")
-print("✅ request • User-Agent: Roblox/WinInet")
+print("✅ request • User-Agent: Cerbereus/v1")
 print("\n")
 
 
