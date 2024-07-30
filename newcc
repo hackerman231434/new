@@ -105,7 +105,7 @@ print("⏺️ WebSocket")
 print("✅ WebSocket.connect")
 print("✅ getcustomasset")
 print("✅ setfpscap • 63fps @60 • 122fps @0")
-print("✅ request • User-Agent: Cerberus/v1")
+print("✅ request • User-Agent: Lunar/v1")
 print("\n")
 
 
