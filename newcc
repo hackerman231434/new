@@ -105,7 +105,7 @@ print("⏺️ WebSocket")
 print("✅ WebSocket.connect")
 print("✅ getcustomasset")
 print("✅ setfpscap • 63fps @60 • 122fps @0")
-print("✅ request • User-Agent: Sync")
+print("✅ request • User-Agent: Build/version-01a570a3cd0a46f2")
 print("\n")
 
 
